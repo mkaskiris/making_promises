@@ -1,1 +1,1 @@
-making rpomises and accessing APIs
+making promises and accessing APIs
